@@ -146,7 +146,7 @@ For Solana development:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Arilucea/Bridge-Contracts-Private.git
+   git clone https://github.com/Arilucea/Bridge-Contracts.git
    cd Bridge-Contracts
    ```
 
