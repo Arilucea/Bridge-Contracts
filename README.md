@@ -1,6 +1,9 @@
 # Bridge Contracts
 
-Contracts for the cross-chain [NFT bridge](https://github.com/Arilucea/Bridge-Solana-Evm) between Ethereum Virtual Machine (EVM) and Solana blockchain networks.
+Contracts for the cross-chain NFT bridge [ArBridge](https://github.com/Arilucea/ArBridge) between Ethereum Virtual Machine (EVM) and Solana blockchain networks.
+
+[![GitHub release](https://img.shields.io/github/v/release/Arilucea/Bridge-Contracts)](https://github.com/Arilucea/Bridge-Contracts/releases)
+[![License](https://img.shields.io/github/license/Arilucea/Bridge-Contracts)](https://github.com/Arilucea/Bridge-Contracts/blob/main/LICENSE)
 
 ## Overview
 
